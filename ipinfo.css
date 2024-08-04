@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+}
+
+#table {
+    margin: auto;
+    width: 350px;
+}
+
+table td {
+    width: 100%;
+    padding: 10px;
+}
+#result {
+    background-color: #c9f29b; /* Menthol */
+    padding: 10px;
+}
+
+div#result div {
+    display:inline;
+    padding: 10px;
+}
+
+.even {
+    background-color: #c5eff7; /* Humming Bird */
+}
